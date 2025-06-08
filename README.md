@@ -50,4 +50,4 @@ https://github.com/GotenAjje/fastcharging/blob/main/LICENSE
 ---
 
 🔌 Charge faster. Root smarter.  
-— by @Goten & @Riprog
+— by @Goten_Reallaccount & @Riprog
