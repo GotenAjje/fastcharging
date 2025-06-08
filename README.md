@@ -1,49 +1,53 @@
-# # fastcharging
-## ✅ Integrity Fix – Pass Strong Integrity on Play Store
+## ⚡ Ultra Fast Charging 3.0 Universal  
+### #fastcharging #ufcu
 
-🚀 **GotenAjje - Integrity Fix** is a lightweight Magisk module that helps your device pass the **"Passed (Strong)"** status in the Play Store's Integrity Check — perfect for rooted or modified systems.
+🚀 Ultra Fast Charging 3.0 Universal is a powerful Magisk module designed to boost charging speed and improve charging efficiency on both MediaTek and Snapdragon Android devices.
 
 ---
 
-### 🔐 What It Does
+### 🔋 What It Does
 
-- ✅ Passes Play Store Integrity (Strong) check  
-- ✅ Fixes detection issues on rooted/custom devices  
-- ✅ Systemless and safe via Magisk  
-- ✅ Supports most Android 11–15 devices  
-- ✅ Works best with **TrickyStore** & **TSupport Advance**
+- ✅ Enables true fast charging on supported devices  
+- ✅ Optimized for MediaTek & Snapdragon SoCs  
+- ✅ Reduces charging time significantly  
+- ✅ Safe, systemless implementation via Magisk  
+- ✅ Compatible with Android 10 to 15  
 
 ---
 
 ### 📦 How to Install
 
-1. Make sure the **latest Magisk** is installed  
-2. Download the module from the [📦 latest release](https://github.com/GotenAjje/fastcharging/releases)  
-3. Open the **Magisk App** → *Modules* → Tap ➕  
+1. Make sure the latest Magisk is installed  
+2. Download the module from the 📦 latest release:  
+   https://github.com/GotenAjje/fastcharging/releases  
+3. Open the Magisk App → Modules → Tap ➕  
 4. Select the `.zip` module  
-5. Reboot your device and check integrity in Play Store  
+5. Reboot your device to activate Ultra Fast Charging  
 
 ---
 
-### 📝 Notes
+### ⚙️ Tips & Requirements
 
-- Requires **Zygisk enabled**  
-- Compatible with **Pixel props** or **certified props** setups  
-- You may need to **clear data** for Play Store after installing  
+- For best results, use the original or certified fast charger  
+- May require enabled battery stats reset for some ROMs  
+- Works with most custom ROMs and stock firmware  
+- No additional configuration needed  
 
 ---
 
 ### 📢 Contact & Support
 
-- 💬 Telegram: [https://t.me/gotenbest](https://t.me/gotenbest)  
-- 🐙 GitHub Project: [GotenAjje](https://github.com/GotenAjje/Gotenajje)
+- 💬 Telegram: https://t.me/gotenbest  
+- 🐙 GitHub Project: https://github.com/GotenAjje/fastcharging  
 
 ---
 
 ### ⚖️ License
 
-Released under [MIT License](https://github.com/GotenAjje/fastcharging/blob/main/LICENSE)
+Released under MIT License  
+https://github.com/GotenAjje/fastcharging/blob/main/LICENSE  
 
 ---
 
-🛡️ Stay safe. Stay rooted.
+🔌 Charge faster. Root smarter.  
+— by @Goten & @Riprog
